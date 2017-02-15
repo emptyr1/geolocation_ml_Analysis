@@ -1,0 +1,3 @@
+data/*
+!data/spots.txt
+!data/gowalla_venues.csv
