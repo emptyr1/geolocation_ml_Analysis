@@ -1,6 +1,6 @@
 # Geo spatial machine learning and recommendation system
 
-Supporting blog post: https://medium.com/@muppal/providing-predictive-geo-location-spatial-data-recommendation-services-6a62fd932056#.22vc0s6xe
+Supporting blog post: https://medium.com/@muppal/providing-predictive-geo-location-spatial-data-recommendation-services-6a62fd932056
 
 # Analysis
 
